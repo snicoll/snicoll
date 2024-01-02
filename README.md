@@ -1,4 +1,4 @@
-🍃 Stéphane Nicoll - Spring Engineering Team 🍃
+🍃 Stéphane Nicoll - Spring Engineering Team
 
 Greetings! I'm Stéphane Nicoll, and my journey in the dynamic world of technology has been deeply intertwined with the transformative power of the Spring framework. With a passion for crafting innovative solutions and a commitment to inclusive collaboration, I'm honored to be a part of the vibrant Spring community.
 
