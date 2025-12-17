@@ -1,12 +1,9 @@
-🍃 Stéphane Nicoll - Spring Engineering Team
+### Hello! I'm Stéphane. 👋
 
-Greetings! I'm Stéphane Nicoll, and my journey in the dynamic world of technology has been deeply intertwined with the transformative power of the Spring framework. With a passion for crafting innovative solutions and a commitment to inclusive collaboration, I'm honored to be a part of the vibrant Spring community.
+I write code for the **[Spring Engineering Team](https://spring.io/team)**.
 
-🚀 About My Spring Journey:
-Humbled by the ever-evolving landscape of Spring, I've dedicated most of my career to navigating its intricacies and contributing to its growth. From core development to advocating best practices, my goal is to empower developers and teams to harness the full potential of the Spring ecosystem.
+I've been working with Spring for a long time, transitioning from a user, to a contributor, and finally to a maintainer. I know how complex software development can be, so I try to focus my efforts on simplifying that journey for others.
 
-🤝 Collaboration in the Spring Community:
-The heart of Spring beats in its community, and I'm grateful to have collaborated with brilliant minds and passionate developers. Let's connect and explore how our shared experiences in the Spring ecosystem can pave the way for even greater innovation and success.
+To me, open source is about more than just pull requests; it's about the people behind the screen. I am deeply committed to making sure our community is a place where diverse voices are heard and where new contributors feel safe to ask questions.
 
-🌐 Advocating for Inclusive Practices:
-Beyond code, I'm a firm believer in fostering inclusive practices within the Spring community and elsewhere. Join me in creating an environment where diverse voices are not just heard but celebrated, contributing to a culture of innovation and collaboration.
+Let's build something cool together. 🍃
